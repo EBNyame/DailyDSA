@@ -5,7 +5,7 @@
   - [Table of Contents](#table-of-contents)
   - [Introduction](#introduction)
   - [Daily Progress](#daily-progress)
-    - [Day 1: Arrays](#day-1-arrays)
+    - [Day 1: Getting Started With Algorithms](#day-1-getting-started-with-algorithms)
     - [Day 2: Strings](#day-2-strings)
     - [Day 3: Linked Lists](#day-3-linked-lists)
     - [Day 4: Dynamic Programming](#day-4-dynamic-programming)
@@ -21,8 +21,8 @@ Welcome to my Daily DSA Practice repository! This project documents my journey i
 ## Daily Progress
 Below is a log of problems I’ve solved each day:
 
-### Day 1: Arrays
-- **Problem 1**: [Two Sum](https://leetcode.com/problems/two-sum) - [Solution](arrays/two_sum.py)
+### Day 1: Getting Started With Algorithms
+- **Problem 1**: [FizzBuzz](https://leetcode.com/problems/two-sum) - [Solution](Daily/FizzBuzz.py)
 - **Problem 2**: [Maximum Subarray](https://leetcode.com/problems/maximum-subarray) - [Solution](arrays/maximum_subarray.py)
 
 ### Day 2: Strings
