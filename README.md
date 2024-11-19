@@ -7,6 +7,7 @@
   - [Daily Progress](#daily-progress)
     - [Day 1: Getting Started With Algorithms](#day-1-getting-started-with-algorithms)
   - [How to Use This Repository](#how-to-use-this-repository)
+  - [Resources](#resources)
 
 
 
@@ -44,6 +45,15 @@ Below is a log of problems I’ve solved each day:
 4. **Run the solutions locally:**
    ```bash
     python filename.py
+
+
+## Resources
+**These are the platforms and materials I use for practice:**
+
+**[LeetCode:]**(https://leetcode.com/) Platform for coding challenges and interview preparation.
+**[HackerRank:]**(https://www.hackerrank.com/) Another platform for practicing problems and learning algorithms.
+**[GeeksforGeeks:]**(https://www.geeksforgeeks.org/) A valuable resource for learning algorithms, data structures, and more.
+**[Python Documentation:]**(https://docs.python.org/3/) Official Python documentation for language reference and libraries.
 
 
 
