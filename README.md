@@ -22,8 +22,8 @@ Welcome to my Daily DSA Practice repository! This project documents my journey i
 Below is a log of problems I’ve solved each day:
 
 ### Day 1: Getting Started With Algorithms
-- **Problem 1**: [FizzBuzz](https://leetcode.com/problems/two-sum) - [Solution](Daily/FizzBuzz.py)
-- **Problem 2**: [Maximum Subarray](https://leetcode.com/problems/maximum-subarray) - [Solution](arrays/maximum_subarray.py)
+- **Problem 1**: [FizzBuzz](https://leetcode.com/problems/two-sum) - [Solution](FizzBuzz.py)
+<!-- - **Problem 2**: [Maximum Subarray](https://leetcode.com/problems/maximum-subarray) - [Solution](arrays/maximum_subarray.py) -->
 
 ### Day 2: Strings
 - **Problem 1**: [Valid Palindrome](https://leetcode.com/problems/valid-palindrome) - [Solution](strings/valid_palindrome.py)
