@@ -6,9 +6,6 @@
   - [Introduction](#introduction)
   - [Daily Progress](#daily-progress)
     - [Day 1: Getting Started With Algorithms](#day-1-getting-started-with-algorithms)
-    - [Day 2: Strings](#day-2-strings)
-    - [Day 3: Linked Lists](#day-3-linked-lists)
-    - [Day 4: Dynamic Programming](#day-4-dynamic-programming)
   - [How to Use This Repository](#how-to-use-this-repository)
 
 
@@ -22,10 +19,10 @@ Welcome to my Daily DSA Practice repository! This project documents my journey i
 Below is a log of problems I’ve solved each day:
 
 ### Day 1: Getting Started With Algorithms
-- **Problem 1**: [FizzBuzz](https://leetcode.com/problems/two-sum) - [Solution](FizzBuzz.py)
+- **Problem 1**: [FizzBuzz](https://leetcode.com/problems/two-sum) - [Solution](Daily/FizzBuzz.py)
 <!-- - **Problem 2**: [Maximum Subarray](https://leetcode.com/problems/maximum-subarray) - [Solution](arrays/maximum_subarray.py) -->
 
-### Day 2: Strings
+<!-- ### Day 2: Strings
 - **Problem 1**: [Valid Palindrome](https://leetcode.com/problems/valid-palindrome) - [Solution](strings/valid_palindrome.py)
 - **Problem 2**: [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix) - [Solution](strings/longest_common_prefix.py)
 
@@ -33,13 +30,25 @@ Below is a log of problems I’ve solved each day:
 - **Problem 1**: [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list) - [Solution](linked_lists/reverse_linked_list.py)
 
 ### Day 4: Dynamic Programming
-- **Problem 1**: [Climbing Stairs](https://leetcode.com/problems/climbing-stairs) - [Solution](dp/climbing_stairs.py)
+- **Problem 1**: [Climbing Stairs](https://leetcode.com/problems/climbing-stairs) - [Solution](dp/climbing_stairs.py) -->
 
 
 ## How to Use This Repository
 1. **Clone this repository**:
    ```bash
-   git clone https://github.com/EBNyame/Daily-DSA.git
+   git clone https://github.com/EBNyame/DailyDSA.git
+2. **Navigate to the specific folder for a topic:**
+   eg. cd Daily-DSA/FizzBuzz.py
+3. **Open the solution files:**
+   Open the .py files to review the code solutions for each problem.
+4. **Run the solutions locally:**
+   ```bash
+    python filename.py
+
+
+
+
+
 
 
 
