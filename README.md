@@ -8,6 +8,7 @@
     - [Day 1: Getting Started With Algorithms](#day-1-getting-started-with-algorithms)
   - [How to Use This Repository](#how-to-use-this-repository)
   - [Resources](#resources)
+  - [Contributing](#contributing)
 
 
 
@@ -50,13 +51,20 @@ Below is a log of problems I’ve solved each day:
 ## Resources
 **These are the platforms and materials I use for practice:**
 
-**[LeetCode:]**(https://leetcode.com/) Platform for coding challenges and interview preparation.
-**[HackerRank:]**(https://www.hackerrank.com/) Another platform for practicing problems and learning algorithms.
-**[GeeksforGeeks:]**(https://www.geeksforgeeks.org/) A valuable resource for learning algorithms, data structures, and more.
-**[Python Documentation:]**(https://docs.python.org/3/) Official Python documentation for language reference and libraries.
+-[LeetCode:](https://leetcode.com/) Platform for coding challenges and interview preparation.
+
+-[HackerRank:](https://www.hackerrank.com/) Another platform for practicing problems and learning algorithms.
+
+-[GeeksforGeeks:](https://www.geeksforgeeks.org/) A valuable resource for learning algorithms, data structures, and more.
+
+-[Python Documentation:](https://docs.python.org/3/) Official Python documentation for language reference and libraries.
 
 
+## Contributing
+Contributions are welcome! If you have suggestions for problems, optimizations, or improvements, feel free to fork the repository and submit a pull request. Here are some ideas for contributing:
 
+**Add more problems:** If you know interesting DSA problems, feel free to add them!
+**Improve solutions:** If you can optimize any existing solutions, please submit a PR with your changes.
 
 
 
