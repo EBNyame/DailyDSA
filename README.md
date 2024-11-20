@@ -63,8 +63,9 @@ Below is a log of problems I’ve solved each day:
 ## Contributing
 Contributions are welcome! If you have suggestions for problems, optimizations, or improvements, feel free to fork the repository and submit a pull request. Here are some ideas for contributing:
 
-**Add more problems:** If you know interesting DSA problems, feel free to add them!
-**Improve solutions:** If you can optimize any existing solutions, please submit a PR with your changes.
+* **Add more problems:** If you know interesting DSA problems, feel free to add them!
+  
+* **Improve solutions:** If you can optimize any existing solutions, please submit a PR with your changes.
 
 
 
