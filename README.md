@@ -21,7 +21,7 @@ Welcome to my Daily DSA Practice repository! This project documents my journey i
 Below is a log of problems I’ve solved each day:
 
 ### Day 1: Getting Started With Algorithms
-- **Problem 1**:- [FizzBuzz](https://leetcode.com/problems/fizz-buzz) - [Solution](Daily/FizzBuzz.py)
+- **Problem 1**:- [FizzBuzz](https://leetcode.com/problems/fizz-buzz) - [Solution](FizzBuzz.py)
     -  **Description**: Fizz and Buzz refer to any number that's a multiple of 3 and 5 respectively. In other words, if a number is divisible
 by 3, it is substituted with ﬁzz; if a number is divisible by 5, it is substituted with buzz. If a number is simultaneously
 a multiple of 3 AND 5, the number is replaced with "ﬁzz buzz." In essence, it emulates the famous children game
